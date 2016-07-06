@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>JDynamic</id>
+    <version>1.2.0.0</version>
+    <title>JDynamic</title>
+    <authors>chsword</authors>
+    <owners>chsword</owners>
+    <projectUrl>http://jdynamic.codeplex.com/</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=jdynamic&amp;DownloadId=518111&amp;Build=19556</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A tools transfer json to .NET Dynamic Object</description>
+    <summary>A tools transfer json to .NET Dynamic Object</summary>
+    <releaseNotes>Fix DateTime error.</releaseNotes>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web.Extensions" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

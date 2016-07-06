@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="SharePoint2" List="113" Url="_catalogs/wp">
+    <File Path="SharePoint2\SharePoint2.webpart" Url="SharePoint2_SharePoint2.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

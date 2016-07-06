@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="ThangWebPart" List="113" Url="_catalogs/wp">
+    <File Path="ThangWebPart\ThangWebPart.webpart" Url="cSharePoint2013_ThangWebPart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>
